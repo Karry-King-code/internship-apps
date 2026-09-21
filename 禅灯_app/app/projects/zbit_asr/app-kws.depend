@@ -1,0 +1,1577 @@
+# depslib dependency file v1.0
+1777449279 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_asr.c
+	"include.h"
+	"zbit_kws/kws_task.h"
+	"xcfg.h"
+	"sha256.h"
+	"zbitkws.h"
+	"led_ctrl.h"
+	"../modules/zbit_kws/XYC-L144-V1-libkws_AB169_88_180k_V2.0.3_cn_nl_wd22_108_2b28379_20260331_163433.c"
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\header\include.h
+	"global.h"
+	"xcfg.h"
+	"config.h"
+	"io_def.h"
+	"api.h"
+	"func.h"
+	"bsp.h"
+	"modules.h"
+	"gui.h"
+	"plugin.h"
+	"res.h"
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\header\global.h
+	<stddef.h>
+	<stdarg.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	"typedef.h"
+	"macro.h"
+	"clib.h"
+	"sfr.h"
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\header\typedef.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\header\macro.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\header\clib.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\header\sfr.h
+
+1777449260 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\xcfg.h
+
+1777450025 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\config.h
+	"config_define.h"
+	"config_extra.h"
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\header\config_define.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\header\config_extra.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\header\io_def.h
+	"global.h"
+	"config.h"
+	"sfr.h"
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\libs\api.h
+	"api_buffer.h"
+	"api_cm.h"
+	"api_sdadc.h"
+	"api_music.h"
+	"api_sd.h"
+	"api_rtc.h"
+	"api_fs.h"
+	"api_device.h"
+	"api_update.h"
+	"api_dac.h"
+	"api_sysclk.h"
+	"api_msg.h"
+	"api_saradc.h"
+	"api_sys.h"
+	"api_pwr.h"
+	"api_key.h"
+	"api_gpio.h"
+	"api_tkey.h"
+	"api_math.h"
+	"api_asr.h"
+	"api_nr.h"
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\libs\api_buffer.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\libs\api_cm.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\libs\api_sdadc.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\libs\api_music.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\libs\api_sd.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\libs\api_rtc.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\libs\api_fs.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\libs\api_device.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\libs\api_update.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\libs\api_dac.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\libs\api_sysclk.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\libs\api_msg.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\libs\api_saradc.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\libs\api_sys.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\libs\api_pwr.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\libs\api_key.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\libs\api_gpio.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\libs\api_tkey.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\libs\api_math.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\libs\api_asr.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\libs\api_nr.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\functions\func.h
+	"func_idle.h"
+	"func_music.h"
+	"func_speaker.h"
+	"sfunc_record.h"
+	"sfunc_record_play.h"
+	"func_lowpwr.h"
+	"func_exspiflash_music.h"
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\functions\func_idle.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\functions\func_music.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\functions\func_speaker.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\functions\sfunc_record.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\functions\sfunc_record_play.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\functions\func_lowpwr.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\functions\func_exspiflash_music.h
+	"spiflash/spiflash1.h"
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\modules\spiflash\spiflash1.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp.h
+	"port_init.h"
+	"bsp_sys.h"
+	"bsp_param.h"
+	"bsp_dac.h"
+	"bsp_music.h"
+	"bsp_asr.h"
+	"bsp_audio.h"
+	"bsp_huart.h"
+	"bsp_ir.h"
+	"bsp_uart.h"
+	"bsp_spi_audio.h"
+	"bsp_i2c.h"
+	"bsp_saradc.h"
+	"bsp_sdadc.h"
+	"bsp_clk.h"
+	"bsp_rtc.h"
+	"bsp_timer.h"
+	"bsp_code.h"
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\port\port_init.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_sys.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_param.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_dac.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_music.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_asr.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_audio.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_huart.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_ir.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_uart.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_spi_audio.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_i2c.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_saradc.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_sdadc.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_clk.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_rtc.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_timer.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_code.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\modules\modules.h
+	"key/key_scan.h"
+	"spiflash/spiflash1.h"
+	"led/led.h"
+	"led/spi_led.h"
+	"esbc/esbc_tran.h"
+	"key/tkey.h"
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\modules\key\key_scan.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\modules\led\led.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\modules\led\spi_led.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\modules\esbc\esbc_tran.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\modules\key\tkey.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\gui\gui.h
+	"ledseg/ledseg_common.h"
+	"ledseg/display_ledseg.h"
+	"lcd/lcd.h"
+	"lcd/display_lcd.h"
+	"lcd/display_listbox.h"
+	"lcd/list_view.h"
+	"lcd/listbox.h"
+	"lcd/dialogbox.h"
+	"lcd/display_dialogbox.h"
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\gui\ledseg\ledseg_common.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\display\ledseg\display_ledseg.h
+	"ledseg/ledseg_7p7s.h"
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\gui\ledseg\ledseg_7p7s.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\gui\lcd\lcd.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\gui\lcd\list_view.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\gui\lcd\listbox.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\gui\lcd\dialogbox.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\plugin\plugin.h
+	"multi_lang.h"
+	"port_led.h"
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\plugin\multi_lang.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\port\port_led.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\res.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\modules\zbit_kws\kws_task.h
+	<stdint.h>
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\modules\auth\sha256.h
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\modules\zbit_kws\zbitkws.h
+	<stdint.h>
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\led_ctrl.h
+	<stdint.h>
+
+1777450892 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\modules\zbit_kws\xyc-l144-v1-libkws_ab169_88_180k_v2.0.3_cn_nl_wd22_108_2b28379_20260331_163433.c
+	"stdint.h"
+
+1777444543 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_audio.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_clk.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_cm.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_code.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_dac.c
+	"include.h"
+	"bsp_dac.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_ext_dump.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_freqdet.c
+	"include.h"
+	"bsp_freqdet.h"
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_freqdet.h
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_huart.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_i2c.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_ir.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_music.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_param.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_rtc.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_saradc.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_sdadc.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_spi_audio.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_sys.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_timer.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\bsp\bsp_uart.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\gui\gui.c
+	"include.h"
+	"gui.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\gui\ledseg\ledseg_7p7s.c
+	"include.h"
+	"ledseg_common.h"
+	"ledseg_7p7s.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\gui\ledseg\ledseg_common.c
+	"include.h"
+	"ledseg_common.h"
+	"ledseg_7p7s.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\libs\strong_symbol.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\modules\auth\sha256.c
+	<string.h>
+	"sha256.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\modules\esbc\esbc_tran.c
+	"include.h"
+	"esbc_tran.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\modules\key\key_scan.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\modules\key\mtrixkey.c
+	"include.h"
+	"mtrixkey.h"
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\modules\key\mtrixkey.h
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\modules\key\tkey.c
+	"include.h"
+	"tkey.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\modules\led\led.c
+	"include.h"
+	"led.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\modules\led\spi_led.c
+	"include.h"
+	"spi_led.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\modules\spiflash\spiflash1.c
+	"include.h"
+	"spiflash1.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\modules\spiflash\spiflash1_music_bin.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\modules\zbit_kws\kws_task.c
+	"kws_task.h"
+	"macro.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\config.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\display\display_idle.c
+	"include.h"
+	"func.h"
+	"func_idle.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\display\ledseg\display_ledseg.c
+	"include.h"
+	"ledseg/display_ledseg.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\functions\func.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\functions\func_exspiflash_music.c
+	"include.h"
+	"func.h"
+	"func_exspiflash_music.h"
+	"api_spiflash_ex.h"
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\libs\api_spiflash_ex.h
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\functions\func_idle.c
+	"include.h"
+	"func.h"
+	"func_idle.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\functions\func_lowpwr.c
+	"include.h"
+	"func.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\functions\func_music.c
+	"include.h"
+	"func.h"
+	"func_music.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\functions\func_speaker.c
+	"include.h"
+	"func.h"
+	"func_speaker.h"
+	"sfr.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\functions\sfunc_record.c
+	"include.h"
+	"func.h"
+	"sfunc_record.h"
+	"spiflash/spiflash1.h"
+	"api_spiflash_ex.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\functions\sfunc_record_play.c
+	"include.h"
+
+1777449931 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\led_yw.c
+	"include.h"
+	"led_ctrl.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\main.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\message\msg_exspiflash_music.c
+	"include.h"
+	"func.h"
+	"func_exspiflash_music.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\message\msg_idle.c
+	"include.h"
+	"func.h"
+	"func_idle.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\message\msg_record.c
+	"include.h"
+	"func.h"
+	"sfunc_record.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\message\msg_speaker.c
+	"include.h"
+	"func.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\output\bin\app.xm
+	"config.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\output\bin\download.xm
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\output\bin\res.xm
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\output\bin\xcfg.xm
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\plugin\eq_table.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\plugin\multi_lang.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\plugin\plugin.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\port\port_init.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\port\port_ir.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\port\port_key.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\port\port_led.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\port\port_ledseg.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\port\port_mute.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\port\port_pwm.c
+	"include.h"
+	"port_pwm.h"
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\port\port_pwm.h
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\port\port_sd.c
+	"include.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\ram.ld
+	"config.h"
+
+1777432603 source:d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\projects\zbit_asr\s_start.s
+	"s_common.h"
+	"config.h"
+
+1777432603 d:\work\ai\customers\xiangyunchang\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\platform\header\s_common.h
+	"sfr.h"
+
+1777444543 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_audio.c
+	"include.h"
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\header\include.h
+	"global.h"
+	"xcfg.h"
+	"config.h"
+	"io_def.h"
+	"api.h"
+	"func.h"
+	"bsp.h"
+	"modules.h"
+	"gui.h"
+	"plugin.h"
+	"res.h"
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\header\global.h
+	<stddef.h>
+	<stdarg.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	"typedef.h"
+	"macro.h"
+	"clib.h"
+	"sfr.h"
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\header\typedef.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\header\macro.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\header\clib.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\header\sfr.h
+
+1777449260 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\xcfg.h
+
+1779258695 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\config.h
+	"config_define.h"
+	"config_extra.h"
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\header\config_define.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\header\config_extra.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\header\io_def.h
+	"global.h"
+	"config.h"
+	"sfr.h"
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\libs\api.h
+	"api_buffer.h"
+	"api_cm.h"
+	"api_sdadc.h"
+	"api_music.h"
+	"api_sd.h"
+	"api_rtc.h"
+	"api_fs.h"
+	"api_device.h"
+	"api_update.h"
+	"api_dac.h"
+	"api_sysclk.h"
+	"api_msg.h"
+	"api_saradc.h"
+	"api_sys.h"
+	"api_pwr.h"
+	"api_key.h"
+	"api_gpio.h"
+	"api_tkey.h"
+	"api_math.h"
+	"api_asr.h"
+	"api_nr.h"
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\libs\api_buffer.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\libs\api_cm.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\libs\api_sdadc.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\libs\api_music.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\libs\api_sd.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\libs\api_rtc.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\libs\api_fs.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\libs\api_device.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\libs\api_update.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\libs\api_dac.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\libs\api_sysclk.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\libs\api_msg.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\libs\api_saradc.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\libs\api_sys.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\libs\api_pwr.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\libs\api_key.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\libs\api_gpio.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\libs\api_tkey.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\libs\api_math.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\libs\api_asr.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\libs\api_nr.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\functions\func.h
+	"func_idle.h"
+	"func_music.h"
+	"func_speaker.h"
+	"sfunc_record.h"
+	"sfunc_record_play.h"
+	"func_lowpwr.h"
+	"func_exspiflash_music.h"
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\functions\func_idle.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\functions\func_music.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\functions\func_speaker.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\functions\sfunc_record.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\functions\sfunc_record_play.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\functions\func_lowpwr.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\functions\func_exspiflash_music.h
+	"spiflash/spiflash1.h"
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\modules\spiflash\spiflash1.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp.h
+	"port_init.h"
+	"bsp_sys.h"
+	"bsp_param.h"
+	"bsp_dac.h"
+	"bsp_music.h"
+	"bsp_asr.h"
+	"bsp_audio.h"
+	"bsp_huart.h"
+	"bsp_ir.h"
+	"bsp_uart.h"
+	"bsp_spi_audio.h"
+	"bsp_i2c.h"
+	"bsp_saradc.h"
+	"bsp_sdadc.h"
+	"bsp_clk.h"
+	"bsp_rtc.h"
+	"bsp_timer.h"
+	"bsp_code.h"
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\port\port_init.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_sys.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_param.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_dac.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_music.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_asr.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_audio.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_huart.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_ir.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_uart.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_spi_audio.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_i2c.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_saradc.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_sdadc.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_clk.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_rtc.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_timer.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_code.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\modules\modules.h
+	"key/key_scan.h"
+	"spiflash/spiflash1.h"
+	"led/led.h"
+	"led/spi_led.h"
+	"esbc/esbc_tran.h"
+	"key/tkey.h"
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\modules\key\key_scan.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\modules\led\led.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\modules\led\spi_led.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\modules\esbc\esbc_tran.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\modules\key\tkey.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\gui\gui.h
+	"ledseg/ledseg_common.h"
+	"ledseg/display_ledseg.h"
+	"lcd/lcd.h"
+	"lcd/display_lcd.h"
+	"lcd/display_listbox.h"
+	"lcd/list_view.h"
+	"lcd/listbox.h"
+	"lcd/dialogbox.h"
+	"lcd/display_dialogbox.h"
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\gui\ledseg\ledseg_common.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\display\ledseg\display_ledseg.h
+	"ledseg/ledseg_7p7s.h"
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\gui\ledseg\ledseg_7p7s.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\gui\lcd\lcd.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\gui\lcd\list_view.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\gui\lcd\listbox.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\gui\lcd\dialogbox.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\plugin\plugin.h
+	"multi_lang.h"
+	"port_led.h"
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\plugin\multi_lang.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\port\port_led.h
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\res.h
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_clk.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_cm.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_code.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_dac.c
+	"include.h"
+	"bsp_dac.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_ext_dump.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_freqdet.c
+	"include.h"
+	"bsp_freqdet.h"
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_freqdet.h
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_huart.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_i2c.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_ir.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_music.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_param.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_rtc.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_saradc.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_sdadc.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_spi_audio.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_sys.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_timer.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_uart.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\gui\gui.c
+	"include.h"
+	"gui.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\gui\ledseg\ledseg_7p7s.c
+	"include.h"
+	"ledseg_common.h"
+	"ledseg_7p7s.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\gui\ledseg\ledseg_common.c
+	"include.h"
+	"ledseg_common.h"
+	"ledseg_7p7s.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\libs\strong_symbol.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\modules\auth\sha256.c
+	<string.h>
+	"sha256.h"
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\modules\auth\sha256.h
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\modules\esbc\esbc_tran.c
+	"include.h"
+	"esbc_tran.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\modules\key\key_scan.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\modules\key\mtrixkey.c
+	"include.h"
+	"mtrixkey.h"
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\modules\key\mtrixkey.h
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\modules\key\tkey.c
+	"include.h"
+	"tkey.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\modules\led\led.c
+	"include.h"
+	"led.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\modules\led\spi_led.c
+	"include.h"
+	"spi_led.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\modules\spiflash\spiflash1.c
+	"include.h"
+	"spiflash1.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\modules\spiflash\spiflash1_music_bin.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\modules\zbit_kws\kws_task.c
+	"kws_task.h"
+	"macro.h"
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\modules\zbit_kws\kws_task.h
+	<stdint.h>
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\config.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\display\display_idle.c
+	"include.h"
+	"func.h"
+	"func_idle.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\display\ledseg\display_ledseg.c
+	"include.h"
+	"ledseg/display_ledseg.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\functions\func.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\functions\func_exspiflash_music.c
+	"include.h"
+	"func.h"
+	"func_exspiflash_music.h"
+	"api_spiflash_ex.h"
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\libs\api_spiflash_ex.h
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\functions\func_idle.c
+	"include.h"
+	"func.h"
+	"func_idle.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\functions\func_lowpwr.c
+	"include.h"
+	"func.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\functions\func_music.c
+	"include.h"
+	"func.h"
+	"func_music.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\functions\func_speaker.c
+	"include.h"
+	"func.h"
+	"func_speaker.h"
+	"sfr.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\functions\sfunc_record.c
+	"include.h"
+	"func.h"
+	"sfunc_record.h"
+	"spiflash/spiflash1.h"
+	"api_spiflash_ex.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\functions\sfunc_record_play.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\main.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\message\msg_exspiflash_music.c
+	"include.h"
+	"func.h"
+	"func_exspiflash_music.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\message\msg_idle.c
+	"include.h"
+	"func.h"
+	"func_idle.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\message\msg_record.c
+	"include.h"
+	"func.h"
+	"sfunc_record.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\message\msg_speaker.c
+	"include.h"
+	"func.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\output\bin\app.xm
+	"config.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\output\bin\download.xm
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\output\bin\res.xm
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\output\bin\xcfg.xm
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\plugin\eq_table.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\plugin\multi_lang.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\plugin\plugin.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\port\port_init.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\port\port_ir.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\port\port_key.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\port\port_led.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\port\port_ledseg.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\port\port_mute.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\port\port_pwm.c
+	"include.h"
+	"port_pwm.h"
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\port\port_pwm.h
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\port\port_sd.c
+	"include.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\ram.ld
+	"config.h"
+
+1777432603 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\s_start.s
+	"s_common.h"
+	"config.h"
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\header\s_common.h
+	"sfr.h"
+
+1779258802 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\bsp\bsp_asr.c
+	"include.h"
+	"zbit_kws/kws_task.h"
+	"xcfg.h"
+	"sha256.h"
+	"zbitkws.h"
+	"led_ctrl.h"
+	"../modules/zbit_kws/XYC-L124-V1-libkws_AB169_128_180k_V3.0.0_cn_wd15_108_929cb98.c"
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\modules\zbit_kws\zbitkws.h
+	<stdint.h>
+
+1777432603 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\led_ctrl.h
+	<stdint.h>
+
+1778211316 d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\platform\modules\zbit_kws\xyc-l124-v1-libkws_ab169_128_180k_v3.0.0_cn_wd15_108_929cb98.c
+	"stdint.h"
+
+1778135330 source:d:\work\ai\zbit\references\v2\ab16x_zba-0322_l124_kws_180k_v2_0_3_cn_hl_15ww_z107\app\projects\zbit_asr\led_yw.c
+	"include.h"
+	"led_ctrl.h"
+
+1783341694 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_asr.c
+	"include.h"
+	"zbit_kws/kws_task.h"
+	"xcfg.h"
+	"sha256.h"
+	"zbitkws.h"
+	"led_ctrl.h"
+	"../modules/zbit_kws/libkws_AB169_301_180k_V3.1.0_cn_wd9_108_7b319ab_20260705_221039.c"
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\header\include.h
+	"global.h"
+	"xcfg.h"
+	"config.h"
+	"io_def.h"
+	"api.h"
+	"func.h"
+	"bsp.h"
+	"modules.h"
+	"gui.h"
+	"plugin.h"
+	"res.h"
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\header\global.h
+	<stddef.h>
+	<stdarg.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	"typedef.h"
+	"macro.h"
+	"clib.h"
+	"sfr.h"
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\header\typedef.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\header\macro.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\header\clib.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\header\sfr.h
+
+1777449260 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\xcfg.h
+
+1783699116 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\config.h
+	"config_define.h"
+	"config_extra.h"
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\header\config_define.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\header\config_extra.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\header\io_def.h
+	"global.h"
+	"config.h"
+	"sfr.h"
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\libs\api.h
+	"api_buffer.h"
+	"api_cm.h"
+	"api_sdadc.h"
+	"api_music.h"
+	"api_sd.h"
+	"api_rtc.h"
+	"api_fs.h"
+	"api_device.h"
+	"api_update.h"
+	"api_dac.h"
+	"api_sysclk.h"
+	"api_msg.h"
+	"api_saradc.h"
+	"api_sys.h"
+	"api_pwr.h"
+	"api_key.h"
+	"api_gpio.h"
+	"api_tkey.h"
+	"api_math.h"
+	"api_asr.h"
+	"api_nr.h"
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\libs\api_buffer.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\libs\api_cm.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\libs\api_sdadc.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\libs\api_music.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\libs\api_sd.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\libs\api_rtc.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\libs\api_fs.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\libs\api_device.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\libs\api_update.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\libs\api_dac.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\libs\api_sysclk.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\libs\api_msg.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\libs\api_saradc.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\libs\api_sys.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\libs\api_pwr.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\libs\api_key.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\libs\api_gpio.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\libs\api_tkey.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\libs\api_math.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\libs\api_asr.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\libs\api_nr.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\functions\func.h
+	"func_idle.h"
+	"func_music.h"
+	"func_speaker.h"
+	"sfunc_record.h"
+	"sfunc_record_play.h"
+	"func_lowpwr.h"
+	"func_exspiflash_music.h"
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\functions\func_idle.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\functions\func_music.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\functions\func_speaker.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\functions\sfunc_record.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\functions\sfunc_record_play.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\functions\func_lowpwr.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\functions\func_exspiflash_music.h
+	"spiflash/spiflash1.h"
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\modules\spiflash\spiflash1.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp.h
+	"port_init.h"
+	"bsp_sys.h"
+	"bsp_param.h"
+	"bsp_dac.h"
+	"bsp_music.h"
+	"bsp_asr.h"
+	"bsp_audio.h"
+	"bsp_huart.h"
+	"bsp_ir.h"
+	"bsp_uart.h"
+	"bsp_spi_audio.h"
+	"bsp_i2c.h"
+	"bsp_saradc.h"
+	"bsp_sdadc.h"
+	"bsp_clk.h"
+	"bsp_rtc.h"
+	"bsp_timer.h"
+	"bsp_code.h"
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\port\port_init.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_sys.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_param.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_dac.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_music.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_asr.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_audio.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_huart.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_ir.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_uart.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_spi_audio.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_i2c.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_saradc.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_sdadc.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_clk.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_rtc.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_timer.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_code.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\modules\modules.h
+	"key/key_scan.h"
+	"spiflash/spiflash1.h"
+	"led/led.h"
+	"led/spi_led.h"
+	"esbc/esbc_tran.h"
+	"key/tkey.h"
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\modules\key\key_scan.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\modules\led\led.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\modules\led\spi_led.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\modules\esbc\esbc_tran.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\modules\key\tkey.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\gui\gui.h
+	"ledseg/ledseg_common.h"
+	"ledseg/display_ledseg.h"
+	"lcd/lcd.h"
+	"lcd/display_lcd.h"
+	"lcd/display_listbox.h"
+	"lcd/list_view.h"
+	"lcd/listbox.h"
+	"lcd/dialogbox.h"
+	"lcd/display_dialogbox.h"
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\gui\ledseg\ledseg_common.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\display\ledseg\display_ledseg.h
+	"ledseg/ledseg_7p7s.h"
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\gui\ledseg\ledseg_7p7s.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\gui\lcd\lcd.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\gui\lcd\list_view.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\gui\lcd\listbox.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\gui\lcd\dialogbox.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\plugin\plugin.h
+	"multi_lang.h"
+	"port_led.h"
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\plugin\multi_lang.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\port\port_led.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\res.h
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\modules\zbit_kws\kws_task.h
+	<stdint.h>
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\modules\auth\sha256.h
+
+1783260981 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\modules\zbit_kws\zbitkws.h
+	<stdint.h>
+
+1783342245 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\led_ctrl.h
+	<stdint.h>
+	<stdbool.h>
+
+1783697994 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\modules\zbit_kws\libkws_ab169_301_180k_v3.1.0_cn_wd9_108_7b319ab_20260705_221039.c
+	"stdint.h"
+
+1777444542 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_audio.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_clk.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_cm.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_code.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_dac.c
+	"include.h"
+	"bsp_dac.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_ext_dump.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_freqdet.c
+	"include.h"
+	"bsp_freqdet.h"
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_freqdet.h
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_huart.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_i2c.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_ir.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_music.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_param.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_rtc.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_saradc.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_sdadc.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_spi_audio.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_sys.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_timer.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\bsp\bsp_uart.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\gui\gui.c
+	"include.h"
+	"gui.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\gui\ledseg\ledseg_7p7s.c
+	"include.h"
+	"ledseg_common.h"
+	"ledseg_7p7s.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\gui\ledseg\ledseg_common.c
+	"include.h"
+	"ledseg_common.h"
+	"ledseg_7p7s.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\libs\strong_symbol.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\modules\auth\sha256.c
+	<string.h>
+	"sha256.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\modules\esbc\esbc_tran.c
+	"include.h"
+	"esbc_tran.h"
+
+1783695930 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\modules\key\key_scan.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\modules\key\mtrixkey.c
+	"include.h"
+	"mtrixkey.h"
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\modules\key\mtrixkey.h
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\modules\key\tkey.c
+	"include.h"
+	"tkey.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\modules\led\led.c
+	"include.h"
+	"led.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\modules\led\spi_led.c
+	"include.h"
+	"spi_led.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\modules\spiflash\spiflash1.c
+	"include.h"
+	"spiflash1.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\modules\spiflash\spiflash1_music_bin.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\modules\zbit_kws\kws_task.c
+	"kws_task.h"
+	"macro.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\config.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\display\display_idle.c
+	"include.h"
+	"func.h"
+	"func_idle.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\display\ledseg\display_ledseg.c
+	"include.h"
+	"ledseg/display_ledseg.h"
+
+1783342393 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\functions\func.c
+	"include.h"
+	"led_ctrl.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\functions\func_exspiflash_music.c
+	"include.h"
+	"func.h"
+	"func_exspiflash_music.h"
+	"api_spiflash_ex.h"
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\libs\api_spiflash_ex.h
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\functions\func_idle.c
+	"include.h"
+	"func.h"
+	"func_idle.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\functions\func_lowpwr.c
+	"include.h"
+	"func.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\functions\func_music.c
+	"include.h"
+	"func.h"
+	"func_music.h"
+
+1783341700 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\functions\func_speaker.c
+	"include.h"
+	"func.h"
+	"func_speaker.h"
+	"led_ctrl.h"
+	"sfr.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\functions\sfunc_record.c
+	"include.h"
+	"func.h"
+	"sfunc_record.h"
+	"spiflash/spiflash1.h"
+	"api_spiflash_ex.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\functions\sfunc_record_play.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\main.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\message\msg_exspiflash_music.c
+	"include.h"
+	"func.h"
+	"func_exspiflash_music.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\message\msg_idle.c
+	"include.h"
+	"func.h"
+	"func_idle.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\message\msg_record.c
+	"include.h"
+	"func.h"
+	"sfunc_record.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\message\msg_speaker.c
+	"include.h"
+	"func.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\output\bin\app.xm
+	"config.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\output\bin\download.xm
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\output\bin\res.xm
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\output\bin\xcfg.xm
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\plugin\eq_table.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\plugin\multi_lang.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\plugin\plugin.c
+	"include.h"
+
+1783693454 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\port\port_init.c
+	"include.h"
+	"port_touch.h"
+
+1783389911 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\port\port_touch.h
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\port\port_ir.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\port\port_key.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\port\port_led.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\port\port_ledseg.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\port\port_mute.c
+	"include.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\port\port_pwm.c
+	"include.h"
+	"port_pwm.h"
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\port\port_pwm.h
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\port\port_sd.c
+	"include.h"
+
+1783389985 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\port\port_touch.c
+	"include.h"
+	"led_ctrl.h"
+	"port_touch.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\ram.ld
+	"config.h"
+
+1777432602 source:d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\projects\zbit_asr\s_start.s
+	"s_common.h"
+	"config.h"
+
+1777432602 d:\arainc_pc\À¶ÑÀ\02.ìøµÆ\ab16x_kws_180k_v3_0_0_cn_15ww_z107_sdk\ab16x_kws_180k_v3_0_0_cn_15ww_z107\app\platform\header\s_common.h
+	"sfr.h"
+

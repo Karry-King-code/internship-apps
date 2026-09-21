@@ -1,0 +1,5 @@
+setid(11111111-1111-1111-1111-111111111111);
+setflash(1, 0x40000, 1, 1, 0);
+setauth(0x3CC9B441,zbit_auth_private_test123);
+make(dcf_buf, header.bin, app.bin, res.bin, xcfg.bin, updater.bin);
+save(dcf_buf, app.dcf);
